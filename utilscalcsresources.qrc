@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>VoltDiv_2.png</file>
+        <file>ParallelResistor_2.png</file>
+        <file>VoltDiv_1.png</file>
+        <file>ParallelResistor_3.png</file>
+        <file>faceforicon_Mfl_2.ico</file>
+        <file>bigmaxletters_3_AsP_1.ico</file>
+        <file>bigmaxletters_3_AsP_2.ico</file>
+        <file>faceforicon_2_bJ5_1.ico</file>
+        <file>faceforicon_2_bJ5_2.ico</file>
+    </qresource>
+</RCC>
